@@ -43,7 +43,7 @@ On supposra que le chiffrement/décchiffrement utilise la même endianness.
 ### Travail à rendre
 Le miniprojet est à faire en binôme, pour le 5 avril. Vous rendrez une archive compréssé [ici](https://www.iut-fbleau.fr/auth.php?site=/site/site/DEVOIR/).
 Celle-ci contiendra :
-- vos programmes, qui doivent utiliser la [bibliothèque](./lib) fournie pour la manipulation de grands nombres entiers
+- vos programmes, qui doivent utiliser la [bibliothèque](./Lib) fournie pour la manipulation de grands nombres entiers
 - un `Makefile`.
 
 
